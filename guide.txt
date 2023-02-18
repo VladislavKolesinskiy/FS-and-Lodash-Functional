@@ -1,0 +1,7 @@
+To access the lodash library and FS, write these commands in the terminal:
+
+ npm i --save express
+ npm i lodash
+
+Now everything works for you!
+Enjoy :)
